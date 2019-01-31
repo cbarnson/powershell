@@ -1,0 +1,1 @@
+Get-Content .\1.in | Set-Content .\1.out -Encoding UTF8

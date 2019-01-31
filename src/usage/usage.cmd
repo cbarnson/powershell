@@ -1,0 +1,1 @@
+powershell -command "(Get-Variable PSVersionTable -ValueOnly).PSVersion"
